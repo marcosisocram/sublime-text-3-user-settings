@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"AngularJS",
 		"ASP Snippets",
 		"BracketHighlighter",
 		"caniuse_local",
