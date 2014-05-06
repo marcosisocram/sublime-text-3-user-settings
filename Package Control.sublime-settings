@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"ASP Snippets",
+		"BracketHighlighter",
 		"DevDocs",
 		"Emmet",
 		"Git"
